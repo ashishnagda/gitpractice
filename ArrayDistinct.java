@@ -15,7 +15,7 @@ public class ArrayDistinct {
 		List<String> list2 = list.stream().distinct().collect(Collectors.toList());
 		System.out.println("List 2: "+ list2);
 		list.add("a");
-		System.out.println("List 1.1: " + list);
+		
 		List<String> list3 = list.stream().distinct().collect(Collectors.toList());
 
 	}
