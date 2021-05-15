@@ -12,7 +12,7 @@ public class ArrayDistinct {
 		list.add("d");
 		System.out.println("List 1: "+ list);
 		List<String> list2 = list.stream().distinct().collect(Collectors.toList());
-		System.out.println("List 2: "+ list2);
+
 		list.add("a");
 		
 		List<String> list3 = list.stream().distinct().collect(Collectors.toList());
