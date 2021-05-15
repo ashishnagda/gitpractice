@@ -5,7 +5,6 @@ import java.util.stream.Collectors;
 public class ArrayDistinct {
 
 	public static void main(String gg[]) {
-		System.out.println("Wellcome to Array gitpractice");
 		List<String> list = new ArrayList<>();
 		list.add("a");
 		list.add("b");
