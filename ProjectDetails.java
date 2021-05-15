@@ -4,6 +4,7 @@ public class ProjectDetails{
 		System.out.println("Exit from gitpractice");
 		System.out.println("Rebase command ");
 		System.out.println("Rebase command before main");
+		System.out.println("Welcome to another day");
 
 	}
 }
