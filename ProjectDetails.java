@@ -6,5 +6,6 @@ public class ProjectDetails{
 		System.out.println("Rebase command before main");
 		System.out.println("Welcome to another day");
 		System.out.println("Rebase main from experiment");
+		System.out.println("git status -s / git status --short");
 	}
 }
