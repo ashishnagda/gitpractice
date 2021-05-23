@@ -7,5 +7,7 @@ public class ProjectDetails{
 		System.out.println("Welcome to another day");
 		System.out.println("Rebase main from experiment");
 		System.out.println("git status -s / git status --short");
+
+		System.out.println("Comparison of Working Directory and Repository. git diff HEAD (HEAD is the pointer which point to you current branch and the current branch points you last commit.");
 	}
 }
