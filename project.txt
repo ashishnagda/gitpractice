@@ -3,3 +3,4 @@ add this new file and update this new file.
 disable fast-forward by git merge <target branch name> --no-ff
 commit in origin main branch.
 rebase the master with feature branch
+<li> containt the sentence of article summary </li>
